@@ -14,7 +14,7 @@ Languages = ["Python" , "C++" , "Bash Scripting" , "C"]
 ```
 <div align=center>
 
-[![typing speed x 1000](icons/../Icon/writing_code.gif)](https://github.com/anonatul)
+[![typing speed x 1000](https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv)](https://github.com/anonatul)
 </div>
 
 <!--
