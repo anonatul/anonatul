@@ -12,6 +12,11 @@ Name = "Atul Kevat"
 Interests = ["Programming", "Anime/Manga", "Art", "Listening Music"]
 Languages = ["Python" , "C++" , "Bash Scripting" , "C"]
 ```
+<div align=center>
+
+[![typing speed x 1000](icons/../Icon/writing_code.gif)](https://github.com/anonatul)
+</div>
+
 <!--
 **anonatul/anonatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
