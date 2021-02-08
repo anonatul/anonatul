@@ -1,8 +1,9 @@
 # Hello Geeks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ```python
 Name = "Atul Kevat"
-Interests = ["Programming", "Anime/Manga", "Photography", "Listening Music"]
-Languages = ["Python" , "C++" , "Bash Scripting" , "C"]
+Interests = ["Programming", "Anime/Manga", "Photography", "Listening Music" , "Cyber Security"]
+Languages = ["Python" , "C/C++" , "Bash Scripting"]
+Skills = ["Familiar with Linux" , "Python" , "Logo making"]
 ```
 - 🔭 I’m currently working on TicTacToe with C++                      
 - 🌱 I’m currently learning Data Structures and Algorithms. 
