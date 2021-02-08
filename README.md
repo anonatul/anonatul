@@ -10,7 +10,7 @@ Languages = ["Python" , "C++" , "Bash Scripting" , "C"]
 - 📫 Ask me about anything [here](https://www.instagram.com/uchiha_anon/)
 - :eyes:   You want to see photo with my toy (Computer) , [Click Here](https://www.instagram.com/uchiha_anon/)
 - ⚡ Fun fact: I am so funny and boring guy :stuck_out_tongue_winking_eye:
-<div align=right>
+<div align=center>
 
 [![typing speed x 1000](https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv)](https://github.com/anon)
 </div>
