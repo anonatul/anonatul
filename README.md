@@ -7,6 +7,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+```python
+Name = "Atul Kevat"
+Interests = ["Programming", "Anime/Manga", "Art", "Listening Music"]
+Languages = ["Python" , "C++" , "Bash Scripting" , "C"]
+```
 <!--
 **anonatul/anonatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
