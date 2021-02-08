@@ -16,7 +16,15 @@ Skills = ["Familiar with Linux" , "Python" , "Logo making" , "MS office"]
 [![typing speed x 1000](https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv)](https://github.com/anon)
 </div>
 
+<details open>
+<summary>GitHub Stats</summary>
+<div align=center>
+    
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anonatul&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anonatul)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anonatul&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anonatul)
 
+</div>
+</details>
 
 
 <!--
