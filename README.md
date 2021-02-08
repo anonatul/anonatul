@@ -2,8 +2,8 @@
 ```python
 Name = "Atul Kevat"
 Interests = ["Programming", "Anime/Manga", "Photography", "Listening Music" , "Cyber Security"]
-Languages = ["Python" , "C/C++" , "Bash Scripting"]
-Skills = ["Familiar with Linux" , "Python" , "Logo making"]
+Languages = ["Python" , "C/C++" , "Bash Scripting" , "MySQL"]
+Skills = ["Familiar with Linux" , "Python" , "Logo making" , "MS office"]
 ```
 - 🔭 I’m currently working on TicTacToe with C++                      
 - 🌱 I’m currently learning Data Structures and Algorithms. 
