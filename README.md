@@ -1,4 +1,4 @@
-# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello Geeks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,7 +12,7 @@ Name = "Atul Kevat"
 Interests = ["Programming", "Anime/Manga", "Art", "Listening Music"]
 Languages = ["Python" , "C++" , "Bash Scripting" , "C"]
 ```
-<div align=center>
+<div align=right>
 
 [![typing speed x 1000](https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv)](https://github.com/anonatul)
 </div>
