@@ -5,7 +5,7 @@ Interests = ["Programming", "Anime/Manga", "Photography", "Listening Music" , "C
 Languages = ["Python" , "C/C++" , "Bash Scripting" , "MySQL"]
 Skills = ["Familiar with Linux" , "Python" , "Logo making" , "MS office"]
 ```
-- 🔭 I’m currently working on TicTacToe with C++                      
+- 🔭 I’m currently fixing some BUG on TicTacToe.                     
 - 🌱 I’m currently learning Data Structures and Algorithms. 
 - :school_satchel: Computer Science Student.
 - 📫 Ask me about anything [here](mail:anonatul404@gmail.com)
