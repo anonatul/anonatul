@@ -9,7 +9,7 @@ Skills = ["Familiar with Linux" , "Python" , "Logo making" , "MS office"]
 - :school_satchel: Computer Science Student.
 - 📫 Ask me about anything [here](mail:anonatul404@gmail.com)
 - :eyes:   You want to see photo with my toy (Computer) , [Click Here](https://www.instagram.com/uchiha_anon/)
-- ⚡ Fun fact: I am so funny and boring guy :stuck_out_tongue_winking_eye:
+- ⚡ Fun fact: I am not a Science student :stuck_out_tongue_winking_eye:
 <div align=center>
 
 [![typing speed x 1000](https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv)](https://github.com/anon)
