@@ -15,7 +15,7 @@ Interests = ["Programming", "Anime/Manga", "Photography", "Listening Music" , "C
 Languages = ["Python" , "C/C++" , "Bash Scripting" , "MySQL"]
 Skills = ["Familiar with Linux" , "Python" , "Logo making" , "MS office"]
 ```                     
-- 🌱 I’m currently learning Data Structures and Algorithms. 
+- 🌱 I’m currently learning Web Devlopment. 
 - :school_satchel: Computer Science Student.
 - 📫 Ask me about anything [here](https://mail:anonatul404@gmail.com)
 - :eyes:   You want to see photo with my toy (Computer) , [Click Here](https://www.instagram.com/anon.atul/)
