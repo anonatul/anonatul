@@ -1,8 +1,8 @@
-# Hello Geeks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello Geeks
 <!DOCTYPE html>
 <html>
 <body>
-TryHackMe -> <img src="https://tryhackme-badges.s3.amazonaws.com/anoantul.png" alt="TryHackMe">
+TryHackMe Profile <img src="https://tryhackme-badges.s3.amazonaws.com/anoantul.png" alt="TryHackMe">
 
 
 
