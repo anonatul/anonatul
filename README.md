@@ -1,5 +1,10 @@
 # Hi 👋 My name is Atul (some know me as anon)
 
+<div align=center>
+
+  <img src="tech.gif" alt="Tech" witdth="" height=""> 
+</div>
+
 Aspiring Developer
 ------------------
 
