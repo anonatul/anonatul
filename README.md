@@ -1,9 +1,9 @@
-# Hi 👋 My name is Atul (some know me as anon)
-
-<div align=center>
+<div >
 
   <img src="tech.gif" alt="Tech" witdth="" height=""> 
 </div>
+
+# Hi 👋 My name is Atul (some know me as anon)
 
 Aspiring Developer
 ------------------
