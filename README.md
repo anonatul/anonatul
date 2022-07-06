@@ -3,7 +3,7 @@
   <img src="tech.gif" alt="Tech" witdth="" height=""> 
 </div>
 
-# Hi 👋 My name is Atul (some know me as anon)
+# Hi, 👋 My name is Atul (some know me as anon)
 
 Aspiring Developer
 ------------------
