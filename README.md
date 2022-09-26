@@ -4,6 +4,8 @@
 </div>
 
 # Hi ,👋 My name is Atul (some know me as anon)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Atul+Kevat;Programmer)](https://git.io/typing-svg)
+
 
 Aspiring Developer
 ------------------
