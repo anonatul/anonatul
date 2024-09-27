@@ -20,6 +20,3 @@ Languages/Tools = ["Python" , "C/C++" , "HTML" , "Linux" , "VS Code"]
 * ✉️  You can contact me at [atulkevatjb10@gmail.com](mailto:atulkevatjb10@gmail.com)
 * 🧠  I'm learning HTML/CSS.
 * 🤝  I'm open to collaborating on open-source or personal projects.
-
-
-<a href="https://app.daily.dev/atulkevat"><img src="https://api.daily.dev/devcards/v2/1Bjrkm91KUZMsgIkzzlks.png?type=wide&r=9h2" width="652" alt="Atul Kevat's Dev Card"/></a>
