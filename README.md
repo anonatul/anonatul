@@ -8,7 +8,7 @@
 
 # Hey there, I'm Atul!
 
-I am a full stack developer and computer science student based in India who loves building clean, modern websites where design, fucntionality, and even the smallest details matter, with a focus on making products that are both parctically and visually satisfying. 
+I am a full stack developer and computer science student based in India who loves building clean, modern websites where design, functionality, and even the smallest details matter, with a focus on making products that are both practical and visually satisfying.
 
 I don't have a fixed stack. I use what the project calls for, and I genuinely enjoy figuring out tools I haven't used before.    
 
