@@ -67,4 +67,75 @@ I am a full stack developer and computer science student based in India who love
 [![Twitter/X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atulxor)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-395.76%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 97.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 139 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 18 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+🌆 Daytime                266 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+🌃 Evening                873 commits         ████████████████░░░░░░░░░   62.76 % 
+🌙 Night                  76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Tuesday                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Wednesday                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Thursday                 204 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Friday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Saturday                 180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Sunday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               18 repos            ███████████████░░░░░░░░░░   58.06 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/anonatul/anonatul/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/04/2026 13:48:03 UTC
 <!--END_SECTION:waka-->
