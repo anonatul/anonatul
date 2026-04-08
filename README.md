@@ -28,9 +28,77 @@ I don't have a fixed stack. I use what the project calls for, and I genuinely en
 ## Coding Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-395.76%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 94.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 134 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 18 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No activity tracked yet
+🌞 Morning                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+🌆 Daytime                259 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+🌃 Evening                873 commits         ████████████████░░░░░░░░░   63.17 % 
+🌙 Night                  75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 ```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   250 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Tuesday                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Wednesday                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Thursday                 204 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Friday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Saturday                 180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Sunday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               18 repos            ███████████████░░░░░░░░░░   58.06 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/anonatul/anonatul/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/04/2026 07:50:11 UTC
 <!--END_SECTION:waka-->
 
 ---
